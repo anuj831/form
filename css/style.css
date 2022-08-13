@@ -1,0 +1,94 @@
+h2{
+    padding-top: 40px;
+}
+h3{
+    padding-top: 30px;
+}
+button{
+    display: inline-block;
+                font-size: 14px;
+                cursor: pointer;
+                width:8%! important;
+                height: 68%;
+                padding: 3px 8px;
+                border-radius:12px;  
+}
+#butt{
+    display: inline-block;
+                font-size: 14px;
+                cursor: pointer;
+                width:8%! important;
+                height: 68%;
+                padding: 3px 8px;
+                border-radius:12px;  
+                margin-left:65px;
+}
+input[type=text]{
+    width:15%;
+      padding:9px 20px;
+  
+     border:1px solid black;
+      border-radius:6px;
+      background-color:white;
+      color:black;
+    }
+    input[type=texts]{
+        width:15%;
+          padding:9px 20px;
+          margin-right: 5px;
+         border:1px solid black;
+          border-radius:6px;
+          background-color:white;
+          color:black;
+        }
+    input[type=email]{
+        width:15%;
+          padding:9px 20px;
+         border:1px solid black;
+          border-radius:8px;
+          background-color:white;
+          color:black;
+          margin-left: 34px;
+        }
+    input[type=password]{
+        width:15%;
+          padding:8px 20px;
+         padding-top: 10px;
+         border:1px solid black;
+          border-radius:6px;
+          background-color:white;
+          color:black;
+          margin-right: 20px;
+        }
+        input[type=pass]{
+            width:15%;
+              padding:8px 20px;
+             padding-top: 10px;
+             border:1px solid black;
+              border-radius:6px;
+              background-color:white;
+              color:black;
+              margin-right: 2px;
+            }
+            input[type=passw]{
+                width:15%;
+                  padding:8px 20px;
+                 padding-top: 10px;
+                 border:1px solid black;
+                  border-radius:6px;
+                  background-color:white;
+                  color:black;
+                  margin-right: 65px;
+                }
+        table{
+          border:1px solid black;
+          width:100%;
+          border-collapse: collapse;
+      background-color: rgb(135, 81, 135);
+        }
+        th{
+            border:1px solid black;
+            width:25%;
+            height: 33px;
+            text-align: center;
+          }
